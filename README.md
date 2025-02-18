@@ -85,12 +85,7 @@ Predicted vs Actual
 [[50  0  0]  
  [ 0 48  2]  
  [ 0  1 49]]
-📌 Contributing
-Feel free to fork this repository, report issues, or submit pull requests to improve the project. Contributions are always welcome! 🎉
 
-License 📜
-This project is licensed under the MIT License.
 
-📩 Contact
-For questions or collaboration, reach out to your-email@example.com
+
 
