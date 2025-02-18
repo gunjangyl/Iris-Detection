@@ -58,8 +58,8 @@ Each sample belongs to one of the three classes:
 ## Installation & Usage 🔧  
 
 ### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/KNN-Iris-Implementation.git
+
+git clone https://github.com/gunjangyl/KNN-Iris-Implementation.git
 cd KNN-Iris-Implementation
 2️⃣ Install Dependencies
 bash
