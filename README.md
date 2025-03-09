@@ -1,6 +1,6 @@
 # Iris-Detection
 
-# KNN Iris Implementation 🌿🌸  
+# KNN Iris Implementation  
 
 ## Overview  
 This project implements the **K-Nearest Neighbors (KNN)** algorithm to classify **Iris flower species** using the well-known **Iris dataset**. The KNN algorithm is a simple yet powerful supervised learning technique that classifies a new data point based on its nearest neighbors in feature space.  
