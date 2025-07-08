@@ -60,12 +60,12 @@ Each sample belongs to one of the three classes:
 ### 1️⃣ Clone the Repository  
 
 git clone https://github.com/gunjangyl/KNN-Iris-Implementation.git
-cd KNN-Iris-Implementation
+cd KNN-Iris-Implementation<br>
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 3️⃣ Run the Script
 bash
 Copy
@@ -74,12 +74,11 @@ python knn_iris.py
 Results & Observations 📈
 The KNN classifier achieves high accuracy on the test dataset.
 The optimal value of K is selected based on model evaluation.
-Visualizations help understand decision boundaries and how different species are classified.
+Visualizations help understand decision boundaries and how different species are classified.<br>
 Example Confusion Matrix:
 
-lua
-Copy
-Edit
+
+
 Predicted vs Actual
 --------------------
 [[50  0  0]  
